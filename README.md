@@ -13,7 +13,7 @@ User Stories
 
 Click [here](https://strong-printer.glitch.me/) to go to the working project.
 
-# Well, I am [Umesh Poswal](https://github.com/U-n-Me/), you can find source code at my [github](https://github.com/U-n-Me/image-search-abstraction).
+**Well, I am [Umesh Poswal](https://github.com/U-n-Me/), you can find source code at my [github](https://github.com/U-n-Me/image-search-abstraction).**
 
 
 Remix this repo
