@@ -1,0 +1,46 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+  background: #777;
+  position:relative;
+}
+
+h1 {
+  font-weight: bold;
+  color: pink;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+div{
+  position: relative;
+  margin: auto;
+  color: white;
+  margin-top: 10%;
+  font-size: 32px;
+  float: right;
+}
+
+img{
+  
+  width: 100px;
+  height: 100px;
+  border: 2px solid #d3d3d3;
+  border-radius: 30%;
+}
