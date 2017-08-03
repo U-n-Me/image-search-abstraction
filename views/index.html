@@ -1,0 +1,55 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!-- You might want to try something fancier: -->
+<!-- html/nunjucks docs: https://mozilla.github.io/nunjucks/ -->
+<!-- pug: https://pugjs.org/ -->
+<!-- haml: http://haml.info/ -->
+<!-- hbs(handlebars): http://handlebarsjs.com/ -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Abs..</title>
+    <meta name="description" content="A cool thing made with Glitch">
+    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <h1>
+      Image search Abstraction layer
+    </h1>
+    <p>
+      This API service provides links and other image results through get request. This service is towards 
+      fulfilment of FCC's back-end development project.
+    </p>
+    <hr>
+    <h1>
+      Example usage:
+    </h1>
+    <ul>
+      <li>
+        https://strong-printer.glitch.me/search/cute%20cat?offset=7
+      </li>
+      <li>
+        https://strong-printer.glitch.me/latest
+      </li>
+    </ul>
+    <br>
+    <hr>
+    <h3>
+      First example gives a max of 'offset' json results for given query.
+    </h3>
+    <h3>
+      Second example gives most recently searched iteams in json format.
+    </h3>
+    
+    <div>
+      Courtesy of <a href = "https://pixabay.com/api/docs/" target = "_blank"><img src = "https://pixabay.com/static/img/public/medium_rectangle_a.png" alt = "pixabay"></a> 
+      
+    </div>
+  </body>
+</html>
