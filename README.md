@@ -18,4 +18,4 @@ Click [here](https://strong-printer.glitch.me/) to go to the working project.
 
 Remix this repo
 ---------------
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/U-n-Me/FCC-Timestamp)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/U-n-Me/image-search-abstraction)
